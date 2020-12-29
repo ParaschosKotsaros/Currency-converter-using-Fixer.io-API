@@ -1,0 +1,38 @@
+body {
+    background:#28252b;
+}
+.container {max-width:600px;  max-height:600px;}
+.paragraph {font-size: 25px; margin-top:60px;}
+
+h1{color:#f0e5e5}
+h4{color: #f0e5e5}
+
+input,
+select{
+    height:30px;
+    width:200px;
+}
+
+#select1{border-radius:8px;}
+#select2{border-radius:8px;}
+#input1{border-radius:8px; margin-bottom:5px;}
+#input2{border-radius:8px; margin-bottom:5px;}
+
+
+footer {
+        position: relative;
+        height: 100px;
+        width: 100%;
+    background-color:#28252b;
+ }
+
+p.copyright {
+        position: absolute;
+        width: 100%;
+        color: #fff;
+        line-height: 20px;
+        font-size: 15px;
+        text-align: right;
+        bottom:0;
+        right:50px;
+}
